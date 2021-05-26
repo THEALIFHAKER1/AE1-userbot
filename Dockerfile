@@ -1,4 +1,4 @@
-FROM thealifhaker1/userbot_python:latest
+FROM thealifhaker1/userbot_docker:latest
 
 ENV PATH="/app/bin:$PATH"
 WORKDIR /app
