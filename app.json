@@ -1,0 +1,38 @@
+{
+    "name": "AE1-USERBOT project",
+    "description": "",
+    "logo": "",
+    "keywords": [
+      "telegram",
+      "userbot",
+      "plugin",
+      "modular",
+      "productivity"
+    ],
+    "repository": "https://github.com/THEALIFHAKER1/AE1-USERBOT",
+    "website": "https://github.com/THEALIFHAKER1/AE1-USERBOT",
+    "success_url": "",
+    "stack": "container",
+    "env": {
+        "API_KEY": {
+            "description": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "",
+            "required": true
+        },
+        "STRING_SESSION": {
+            "description": "",
+            "required": true
+        },
+        "HEROKU_APIKEY": {
+            "description": "",
+            "required": false
+        },
+        "HEROKU_APPNAME": {
+            "description": "",
+            "required": false
+        }
+    }
+}
